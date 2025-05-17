@@ -34,8 +34,8 @@ In this section, projects and products will be listed which include or access ir
 * [IrScrutinizer](https://github.com/bengtmartensson/harctoolboxbundle) software that can import infrared remote signals from irdb, scrutinize them, and send them using various sending devices
 
 # Other Resources
-  https://www.commandfusion.com/irdatabase
-  https://irdb.globalcache.com/Home/Database
+  * https://www.commandfusion.com/irdatabase
+  * https://irdb.globalcache.com/Home/Database
 
 ## License
 
