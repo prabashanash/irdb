@@ -1,7 +1,5 @@
 # irdb
 
-# https://www.commandfusion.com/irdatabase
-# https://irdb.globalcache.com/Home/Database
 
 ![ir](https://cloud.githubusercontent.com/assets/2480569/9023330/cc63e7fe-3897-11e5-94cb-8cb145971fd2.png)
 
@@ -34,6 +32,10 @@ https://cdn.jsdelivr.net/gh/probonopd/irdb@master/codes/Samsung/TV/7,7.csv
 
 In this section, projects and products will be listed which include or access irdb.
 * [IrScrutinizer](https://github.com/bengtmartensson/harctoolboxbundle) software that can import infrared remote signals from irdb, scrutinize them, and send them using various sending devices
+
+# Other Resources
+  https://www.commandfusion.com/irdatabase
+  https://irdb.globalcache.com/Home/Database
 
 ## License
 
